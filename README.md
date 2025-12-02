@@ -1,12 +1,72 @@
-- 👋 Hi, I’m @boyinatulasiram
-- 👀 I’m interested in ...learning skills
-- 🌱 I’m currently learning ... web development and dsa
-- 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...mail:tulasiramboyina16@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hey 👋, I'm Tulasi Ram</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Learner | Cloud & DevOps Enthusiast</h3>
 
-<!---
-boyinatulasiram/boyinatulasiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boyinatulasiram&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me  
+- 🔭 Currently working on **WanderLust – MERN Travel Booking App**  
+- 🌱 Learning **AI/ML, React, Kubernetes, and Cloud**  
+- 💡 Strong interest in **AR/VR gamification, system design, and scalable apps**  
+- 🧠 Solved **100+ DSA problems** on LeetCode/HackerRank/CodeChef  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Python, GitHub**  
+- ⚡ Fun fact: I break code just to fix it better 😎  
+
+---
+
+## 🛠️ Tech Stack  
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript&perline=8" />
+</p>
+
+### 🧩 Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&perline=8" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,linux&perline=8" />
+</p>
+
+---
+
+## 🔥 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=boyinatulasiram&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=boyinatulasiram&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyinatulasiram&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+### 🌍 **WanderLust – MERN Travel Booking App**
+- 🔐 JWT Auth | 🏨 Booking System  
+- 📸 Image Uploads (Multer + Cloudinary)  
+- 🌐 Responsive UI with Tailwind  
+- 🗺️ Google Maps Integration  
+
+### 🤖 **AI Projects**
+- Chatbot using Python  
+- Basic ML Algorithms Implementation  
+
+---
+
+## 🌐 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/boyinatulasiram"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:boyinatulasiram@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/boyinatulasiram"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+### ⭐ **“Code. Learn. Build. Repeat.”**  
