@@ -47,18 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-### 🌍 **WanderLust – MERN Travel Booking App**
-- 🔐 JWT Auth | 🏨 Booking System  
-- 📸 Image Uploads (Multer + Cloudinary)  
-- 🌐 Responsive UI with Tailwind  
-- 🗺️ Google Maps Integration  
-
-### 🤖 **AI Projects**
-- Chatbot using Python  
-- Basic ML Algorithms Implementation  
-
----
 
 ## 🌐 Connect With Me  
 <p>
