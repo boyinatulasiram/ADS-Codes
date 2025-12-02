@@ -20,17 +20,17 @@
 ## 🛠️ Tech Stack  
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,boostrap,tailwind,node,express,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,c&perline=8" />
 </p>
 
 ### 🧩 Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,mongodb&perline=8" />
 </p>
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,aws,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,linux&perline=8" />
 </p>
 
 ---
@@ -50,8 +50,8 @@
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/boyinatulasiram"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:boyinatulasiram@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/contact-tulasi-ram-boyina"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:trboyina@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/boyinatulasiram"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
