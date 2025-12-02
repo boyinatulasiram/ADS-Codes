@@ -10,9 +10,9 @@
 ## 🚀 About Me  
 - 🔭 Currently working on **WanderLust – MERN Travel Booking App**  
 - 🌱 Learning **AI/ML, React, Kubernetes, and Cloud**  
-- 💡 Strong interest in **AR/VR gamification, system design, and scalable apps**  
-- 🧠 Solved **100+ DSA problems** on LeetCode/HackerRank/CodeChef  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Python, GitHub**  
+- 💡 Strong interest in **system design, and scalable apps**  
+- 🧠 Solved **500+ DSA problems** on LeetCode/HackerRank/CodeChef  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, C++, Java, Python, JavaScript, GitHub**  
 - ⚡ Fun fact: I break code just to fix it better 😎  
 
 ---
@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack  
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,boostrap,tailwind,node,express,mongodb&perline=8" />
 </p>
 
 ### 🧩 Frameworks & Libraries  
