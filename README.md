@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Tulasi Ram</h1>
+<h1 align="center">Hey 👋, I'm Tulasi Ram Boyina</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Learner | Cloud & DevOps Enthusiast | </h3>
 
 <p align="center">
